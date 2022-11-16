@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "505795639238",
+    "firebase_url": "https://chat-ad85f-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "chat-ad85f",
+    "storage_bucket": "chat-ad85f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505795639238:android:77111a3f2604a297b3a4c7",
+        "android_client_info": {
+          "package_name": "com.example.chatme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505795639238-na6pgqmssod6covcuri7oqkfta8rdtc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzZ4yzikQ8kEC_fKqBmZhbE2W8-YjkT_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505795639238-na6pgqmssod6covcuri7oqkfta8rdtc9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "505795639238-1j7loa13b7oc6q9u9bndj3bqvprfl0tq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fbc"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505795639238:android:10f443ea2012ebc5b3a4c7",
+        "android_client_info": {
+          "package_name": "com.example.piece_of_cake"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505795639238-na6pgqmssod6covcuri7oqkfta8rdtc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzZ4yzikQ8kEC_fKqBmZhbE2W8-YjkT_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505795639238-na6pgqmssod6covcuri7oqkfta8rdtc9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "505795639238-1j7loa13b7oc6q9u9bndj3bqvprfl0tq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fbc"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
